@@ -26,7 +26,7 @@ complementary packages, in this way:
 After that, you can just execute the script via bash, just like that:
 
 ``` bash
-  Rscript app.R
+  Rscript R/app.R
 ```
 
 ## Contribute
