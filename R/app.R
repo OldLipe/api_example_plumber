@@ -1,6 +1,6 @@
 library(plumber)
 
-pr <- pr("plumber.R")
+pr <- pr("api_kohonen.R")
 pr$run(port = 9173)
 
 # ver esse codigo q ele especifica como q cria o swagger
